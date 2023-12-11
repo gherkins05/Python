@@ -4,7 +4,7 @@ fibValues = [1, 1]
 while fibValues[-1] < 4000000:
     fibValues.append(fibValues[-1] + fibValues[-2])
 
-for value in fibValue:
+for value in fibValues:
     if value % 2 == 0:
         sum  += value
 
