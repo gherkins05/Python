@@ -9,4 +9,4 @@ for i in range(1, 101):
 
 squareOfSum = squareOfSum ** 2
 
-print(squareOfSum - sumOfSquares)
+print(squareOfSum - sumOfSquares) 
